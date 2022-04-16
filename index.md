@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Regrubeis.org
+
+A organização regrubeis tem por objetivos disseminar o conhecimento e a educação em todas as suas formas no universo da tecnologia e da programação. 
+
+Através da integração da comunicação e dos incentivos proporcionados pelos membros da organização e seus colaboradores criamos uma cadeia de relações que viabilizam casos de projetos reais envolvendo a educação e o desenvolvimento de diversas áreas de conhecimento.
 
 You can use the [editor on GitHub](https://github.com/regrubeis/regrubeis.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

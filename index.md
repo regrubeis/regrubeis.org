@@ -11,6 +11,16 @@ Para isso o github, ferramenta gratuíta que permite a criação desses projetos
 
 A ideia do projeto **Social Synapsis** nasceu junto com a Regrubeis como uma ideia de desenvolvimento social e econômico com base no conhecimento e interesse de pessoas físicas no desenvolvimento de um projeto misto, de interesse social, econômico e comercial tendo como base a expansão do conhecimento das diversas áreas envolvidas no desenvolvimento dos projetos desenvolvidos pela **Regrubeis**, com a inserção e envolvimento amplo de elementos integrantes das partes, ambientes, corporações ou comunidades desses projetos. 
 
+***
+
+## Uma introdução ao método de ligação social sináptico.
+
+Todos os casos de sucesso são baseados em relações de confiança mutua, históricamente através de uma terceira parte até os dias de hoje. A criação de redes descentralisadas porporciona uma experiência única em todos os tempos para a criação de _redes de relações de confiança mais inteligentes_, a qual chamamos de **Social Synapsis**.
+
+
+
+
+***
 
 ### Jekyll 
 

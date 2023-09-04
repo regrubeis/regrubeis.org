@@ -22,32 +22,6 @@ Todos os casos de sucesso são baseados em relações de confiança mutua, hist�
 
 ***
 
-## Jekyll 
-
-O Jekyll é um programa gerador de sites integrado ao Github. Com eles é possível criar sites exclusivos hospedados gratuitamente com certificado SSL e personalizado com a compra de um domínio internacional.
-
-Outras funcionalidades integradas ao site gratuitamente:
-
-Formulário de contato: Todas as mensagens e informações são encaminhadas para e-mail pessoal (ex: meuemail@gmail.com)
-
-Google-analytics: Ferramenta de acompanhamento que mede o trafego do site e gera relatorios mensais.
-
-Outras pagas:
-
-Custom Domain: Domínio internacional www.meusite.com (aprox. 10USD$/ano);
-
-Custom e-mail: meunome@meusite.com (aprox. 4USD$/mês);
-
-
-
-### RoadMap
-
- * Integração Whatsapp;
- * Integração FB e Insta;
- * Twitter Automation;
-
-***
-
 
 
 ### Support or Contact

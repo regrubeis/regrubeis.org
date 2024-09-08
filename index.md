@@ -1,4 +1,4 @@
-# Welcome to Regrubeis.org
+# Welcome to Regrubeis.com
 
 A organização regrubeis tem por objetivos disseminar o conhecimento e a educação em todas as suas formas no universo da tecnologia e da programação. 
 

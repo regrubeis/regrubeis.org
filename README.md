@@ -1,2 +1,2 @@
-# regrubeis.org
+# regrubeis
 A Regrubeis Organication Informational

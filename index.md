@@ -1,4 +1,4 @@
-# Welcome to Regrubeis.org
+# Welcome to Regrubeis.com
 
 A organização regrubeis tem por objetivos disseminar o conhecimento e a educação em todas as suas formas no universo da tecnologia e da programação. 
 
@@ -17,11 +17,35 @@ A ideia do projeto **Social Synapsis** nasceu junto com a Regrubeis como uma ide
 
 Todos os casos de sucesso são baseados em relações de confiança mutua, históricamente através de uma terceira parte até os dias de hoje. A criação de redes descentralisadas porporciona uma experiência única em todos os tempos para a criação de _redes de relações de confiança mais inteligentes_, a qual chamamos de **Social Synapsis**.
 
+***
 
+<<<<<<< HEAD
+=======
+## Jekyll 
 
+O Jekyll é um programa gerador de sites integrado ao Github. Com eles é possível criar sites exclusivos hospedados gratuitamente com certificado SSL e personalizado com a compra de um domínio internacional.
+
+Outras funcionalidades integradas ao site gratuitamente:
+
+Formulário de contato: Todas as mensagens e informações são encaminhadas para e-mail pessoal (ex: meuemail@gmail.com)
+
+Google-analytics: Ferramenta de acompanhamento que mede o trafego do site e gera relatorios mensais.
+
+Outras pagas:
+
+Custom Domain: Domínio internacional www.meusite.com (aprox. 10USD$/ano);
+
+Custom e-mail: meunome@meusite.com (aprox. 4USD$/mês);
+
+### RoadMap
+
+ * Integração Whatsapp;
+ * Integração FB e Insta;
+ * BlueSky Automation;
 
 ***
 
+>>>>>>> main
 
 
 ### Support or Contact

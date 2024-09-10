@@ -17,9 +17,6 @@ A ideia do projeto **Social Synapsis** nasceu junto com a Regrubeis como uma ide
 
 Todos os casos de sucesso são baseados em relações de confiança mutua, históricamente através de uma terceira parte até os dias de hoje. A criação de redes descentralisadas porporciona uma experiência única em todos os tempos para a criação de _redes de relações de confiança mais inteligentes_, a qual chamamos de **Social Synapsis**.
 
-
-
-
 ***
 
 ## Jekyll 
@@ -37,8 +34,6 @@ Outras pagas:
 Custom Domain: Domínio internacional www.meusite.com (aprox. 10USD$/ano);
 
 Custom e-mail: meunome@meusite.com (aprox. 4USD$/mês);
-
-
 
 ### RoadMap
 

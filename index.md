@@ -44,7 +44,7 @@ Custom e-mail: meunome@meusite.com (aprox. 4USD$/mês);
 
  * Integração Whatsapp;
  * Integração FB e Insta;
- * Twitter Automation;
+ * BlueSky Automation;
 
 ***
 
